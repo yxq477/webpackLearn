@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Inconsolata';
+    src: url('./Inconsolata.otf') format('otf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Inconsolata';
+}
