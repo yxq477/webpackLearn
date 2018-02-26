@@ -5,6 +5,9 @@
     font-style: normal;
 }
 
+body {
+    background-color: navajowhite;
+}
 .hello {
     color: red;
     font-family: 'Inconsolata';
